@@ -1,8 +1,16 @@
-import React from 'react';
-import { Container, Box, Text, Tab, TabList, TabPanel, TabPanels, Tabs } from "@chakra-ui/react";
-import Login from '../components/Authentication/Login';
-import Signup from '../components/Authentication/Signup';
-
+import React from "react";
+import {
+  Container,
+  Box,
+  Text,
+  Tab,
+  TabList,
+  TabPanel,
+  TabPanels,
+  Tabs,
+} from "@chakra-ui/react";
+import Login from "../components/Authentication/Login";
+import Signup from "../components/Authentication/Signup";
 
 const HomePage = () => {
   return (
@@ -40,13 +48,18 @@ const HomePage = () => {
             <Tab width="50%">Sign Up</Tab>
           </TabList>
           <TabPanels>
-            <TabPanel> <Login/></TabPanel>
-            <TabPanel><Signup/></TabPanel>
+            <TabPanel>
+              
+              <Login />
+            </TabPanel>
+            <TabPanel>
+              <Signup />
+            </TabPanel>
           </TabPanels>
         </Tabs>
       </Box>
     </Container>
   );
-}
+};
 
 export default HomePage;
