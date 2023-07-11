@@ -31,7 +31,7 @@ const HomePage = () => {
           color="black"
           textAlign="center"
         >
-          Talk-A-Tive
+          Talk-A-Tive Chat App
         </Text>
       </Box>
       <Box
