@@ -26,12 +26,12 @@ const HomePage = () => {
         borderWidth="1px"
       >
         <Text
-          fontSize="4xl"
+          fontSize="2xl"
           fontFamily="Work sans"
           color="black"
           textAlign="center"
         >
-          Talk-A-Tive Chat App
+          Talk-A-Tive
         </Text>
       </Box>
       <Box
