@@ -8,5 +8,6 @@
     background-size: cover;
     background-position: center;
     color: black;
-   
+    border: 2px solid black;
+    border-radius: 4px;
 }
