@@ -8,5 +8,5 @@
     background-size: cover;
     background-position: center;
    border: 5px solid red;
-   transform: rotate(1.5);
+   border-radius: 5px;
 }
