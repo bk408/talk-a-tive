@@ -54,6 +54,7 @@ const HomePage = () => {
             </TabPanel>
             <TabPanel>
               <Signup />
+              <Signup />
             </TabPanel>
           </TabPanels>
         </Tabs>
