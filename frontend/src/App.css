@@ -6,8 +6,5 @@
   background-image: url("./background.png");
   background-size: cover;
   background-position: center;
-  margin: 0;
-  padding: 0;
-  align-items: center;
-  background: #000;
+  
 }
