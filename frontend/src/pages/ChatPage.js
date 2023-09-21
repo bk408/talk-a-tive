@@ -6,7 +6,7 @@ const ChatPage = () => {
 
   const [chats, setChats] = useState([])
   const [home, setHome] = useState(null)
-  const [cart, setCart] = useState(null)
+ 
 
 
   const fetchChats = async() => {
