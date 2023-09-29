@@ -2,7 +2,9 @@ import React from 'react'
 
 const Body = () => {
   return (
-    <div>Body</div>
+    <div className="container">
+      <h1>Mern Chat App</h1>
+    </div>
   )
 }
 
