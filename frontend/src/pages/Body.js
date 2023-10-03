@@ -10,6 +10,9 @@ const Body = () => {
         <li>Contact Us</li>
         <li>Services</li>
       </ul>
+      <div className='heading'>
+        <p>This chat App</p>
+      </div>
     </div>
   )
 }
