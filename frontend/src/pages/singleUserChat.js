@@ -2,7 +2,9 @@ import React from 'react'
 
 const singleUserChat = () => {
   return (
-    <div>singleUserChat</div>
+    <div>
+      <h1>singleUserChat</h1>
+    </div>
   )
 }
 
